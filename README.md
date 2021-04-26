@@ -18,7 +18,7 @@ author of 👨[topology-react](https://github.com/Summer-andy/topology-react)
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning typescript and react.
+- 🌱 I’m currently learning typescript and react and vite.
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 😜 I'm focusing on low-code.
 - 💬 Ask me about anything, I am happy to help.
